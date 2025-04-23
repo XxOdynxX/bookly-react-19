@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  min-height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
